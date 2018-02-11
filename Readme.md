@@ -1,4 +1,7 @@
-Run 
+# Bench Marks
+
+## `in_array()` comparison:
+ 
 ```
 $ vendor/bin/phpbench run benchmarks/InArrayBench.php --report=aggregate
 ```
